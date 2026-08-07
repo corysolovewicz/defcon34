@@ -1,0 +1,3 @@
+# placeholder_squatting_probe.py
+dnspython>=2.4.0
+colorama>=0.4.6   # optional, colourised output
